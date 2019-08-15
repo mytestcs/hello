@@ -1,9 +1,9 @@
 
-#include <stdio.h>
+#include <iostream>
+using namespace std;
 
-int main (argc, argv)
-int argc;
-char *argv[];
+int main ()
+
 {
-    printf("Hello Class!\n");
+    cout << "Hello Class!\n";
 }
